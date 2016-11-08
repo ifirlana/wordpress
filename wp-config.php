@@ -42,13 +42,13 @@
 
 /** The name of the database for WordPress */
 
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'demo');
 
 
 
 /** MySQL database username */
 
-define('DB_USER', 'demo');
+define('DB_USER', 'root');
 
 
 
